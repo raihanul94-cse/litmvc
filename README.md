@@ -6,4 +6,6 @@
 * Download the clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/raihanul94-cse/litmvc.git
+```
+Now ready to use
